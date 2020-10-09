@@ -1,7 +1,7 @@
 require(rpart)
 Swiss_rpart <- rpart(Fertility ~ Agriculture + Education + Catholic, data = swiss)
-plot(swiss_rpart) # try some different plot options
-text(swiss_rpart) # try some different text options
+plot(Swiss_rpart) # try some different plot options
+text(Swiss_rpart) # try some different text options
 
 require(party)
 
@@ -33,7 +33,7 @@ text(fit2M, use.n=TRUE, all=TRUE, cex=.8)
 
 
 fitK <- ctree(Kyphosis ~ Age + Number + Start, data=kyphosis)
-plot(fitK, main="Conditional Inference Tree for Kyphosisâ???)
+plot(fitK, main="Conditional Inference Tree for Kyphosisâ???")
 plot(fitK, main="Conditional Inference Tree for Kyphosis",type="simple")
 
 #etc.
