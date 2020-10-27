@@ -153,6 +153,8 @@ samp_reg3 <- ceiling(runif(5000, min = 0, max = nrow(ds3_reg)))
 samp_reg4 <- ceiling(runif(5000, min = 0, max = nrow(ds4_reg)))
 samp_reg5 <- ceiling(runif(5000, min = 0, max = nrow(ds5_reg)))
 
+library(goft)
+weibull_test(ds1[samp1,3])
 
 #Shapiro Test for Age
 shapiro.test(ds1[samp1,1])
