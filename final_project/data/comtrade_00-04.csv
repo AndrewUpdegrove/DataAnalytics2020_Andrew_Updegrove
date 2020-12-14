@@ -1,0 +1,815 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H2,2002,2002,2002,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,356627,,,0
+H2,2002,2002,2002,2,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,754386,,,0
+H2,2002,2002,2002,2,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,139068678,,,0
+H2,2002,2002,2002,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,645132327,,,0
+H2,2002,2002,2002,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2559013670,,,0
+H2,2002,2002,2002,2,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,463010,,,0
+H2,2002,2002,2002,2,0,2,Export,50,Bangladesh,BGD,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,4431121,,,0
+H2,2002,2002,2002,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1821342057,,,0
+H2,2002,2002,2002,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,41089869,,,0
+H2,2002,2002,2002,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1766368898,,,0
+H2,2002,2002,2002,2,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,18940563,,,0
+H2,2002,2002,2002,2,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,105237979,,,0
+H2,2002,2002,2002,2,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,207456900,,,0
+H2,2002,2002,2002,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,12112145958,,,0
+H2,2002,2002,2002,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,12640984,,,0
+H2,2002,2002,2002,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1124662539,,,0
+H2,2002,2002,2002,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2830210009,,,0
+H2,2002,2002,2002,2,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,34378044,,,0
+H2,2002,2002,2002,2,0,2,Export,175,Mayotte,MYT,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,27782,,,0
+H2,2002,2002,2002,2,0,2,Export,184,Cook Isds,COK,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,4084,,,0
+H2,2002,2002,2002,2,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,221868893,,,0
+H2,2002,2002,2002,2,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,539562,,,0
+H2,2002,2002,2002,2,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,924628946,,,0
+H2,2002,2002,2002,2,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,707886718,,,0
+H2,2002,2002,2002,2,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,63951151,,,0
+H2,2002,2002,2002,2,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1186004,,,0
+H2,2002,2002,2002,2,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,524976672,,,0
+H2,2002,2002,2002,2,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2366049075,,,0
+H2,2002,2002,2002,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1909226710,,,0
+H2,2002,2002,2002,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,4407540000,,,0
+H2,2002,2002,2002,2,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,34267224,,,0
+H2,2002,2002,2002,2,0,2,Export,304,Greenland,GRL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,7392,,,0
+H2,2002,2002,2002,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,17459615,,,0
+H2,2002,2002,2002,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1000331471,,,0
+H2,2002,2002,2002,2,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,2500,,403264000,,,0
+H2,2002,2002,2002,2,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,56072,,,0
+H2,2002,2002,2002,2,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,254199647,,,0
+H2,2002,2002,2002,2,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,7688000,,,0
+H2,2002,2002,2002,2,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1324416705,,,0
+H2,2002,2002,2002,2,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,65887292,,,0
+H2,2002,2002,2002,2,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,26391803,,,0
+H2,2002,2002,2002,2,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,8175647,,,0
+H2,2002,2002,2002,2,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,71711538,,,0
+H2,2002,2002,2002,2,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,12019908,,,0
+H2,2002,2002,2002,2,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,766377461,,,0
+H2,2002,2002,2002,2,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,292875904,,,0
+H2,2002,2002,2002,2,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,129910855,,,0
+H2,2002,2002,2002,2,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1161488,,,0
+H2,2002,2002,2002,2,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,8058924,,,0
+H2,2002,2002,2002,2,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2953991688,,,0
+H2,2002,2002,2002,2,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,871299,,,0
+H2,2002,2002,2002,2,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1925107,,,0
+H2,2002,2002,2002,2,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,358462619,,,0
+H2,2002,2002,2002,2,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,213614,,,0
+H2,2002,2002,2002,2,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,31503798,,,0
+H2,2002,2002,2002,2,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,17973246,,,0
+H2,2002,2002,2002,2,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,858291,,,0
+H2,2002,2002,2002,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,497529931,,,0
+H2,2002,2002,2002,2,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,170654,,,0
+H2,2002,2002,2002,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1159647090,,,0
+H2,2002,2002,2002,2,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,18177462,,,0
+H2,2002,2002,2002,2,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,41261,,,0
+H2,2002,2002,2002,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,344399204,,,0
+H2,2002,2002,2002,2,0,2,Export,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,10996,,,0
+H2,2002,2002,2002,2,0,2,Export,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,104979018,,,0
+H2,2002,2002,2002,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,103054279,,,0
+H2,2002,2002,2002,2,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1271691000,,,0
+H2,2002,2002,2002,2,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,384648434,,,0
+H2,2002,2002,2002,2,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,619585024,,,0
+H2,2002,2002,2002,2,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2940767915,,,0
+H2,2002,2002,2002,2,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,9734679,,,0
+H2,2002,2002,2002,2,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,4728,,,0
+H2,2002,2002,2002,2,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,200688662,,,0
+H2,2002,2002,2002,2,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,338246390,,,0
+H2,2002,2002,2002,2,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,303003388,,,0
+H2,2002,2002,2002,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,360620531,,,0
+H2,2002,2002,2002,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,819263749,,,0
+H2,2002,2002,2002,2,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2994677008,,,0
+H2,2002,2002,2002,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,459800287,,,0
+H2,2002,2002,2002,2,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,672613534,,,0
+H2,2002,2002,2002,2,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,14602191,,,0
+H2,2002,2002,2002,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,116996710,,,0
+H2,2002,2002,2002,2,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,628433,,,0
+H2,2002,2002,2002,2,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,3779509,,,0
+H2,2002,2002,2002,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,514749190,,,0
+H2,2002,2002,2002,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,5100131436,,,0
+H2,2002,2002,2002,2,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,51904366,,,0
+H2,2002,2002,2002,2,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,4725580,,,4
+H2,2003,2003,2003,2,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,8765945,,,0
+H2,2003,2003,2003,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,53249,,,0
+H2,2003,2003,2003,2,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1040203,,,0
+H2,2003,2003,2003,2,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,195507674,,,0
+H2,2003,2003,2003,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,743992821,,,0
+H2,2003,2003,2003,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,3240365798,,,0
+H2,2003,2003,2003,2,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,390279,,,0
+H2,2003,2003,2003,2,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,436896,,,0
+H2,2003,2003,2003,2,0,2,Export,50,Bangladesh,BGD,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1143149,,,0
+H2,2003,2003,2003,2,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1676617,,,0
+H2,2003,2003,2003,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2180960801,,,0
+H2,2003,2003,2003,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,42606050,,,0
+H2,2003,2003,2003,2,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,126816414,,,0
+H2,2003,2003,2003,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2082457104,,,0
+H2,2003,2003,2003,2,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,33666376,,,0
+H2,2003,2003,2003,2,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,142536470,,,0
+H2,2003,2003,2003,2,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,298370400,,,0
+H2,2003,2003,2003,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,12632196246,,,0
+H2,2003,2003,2003,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,18875485,,,0
+H2,2003,2003,2003,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1236526742,,,0
+H2,2003,2003,2003,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,3466124483,,,0
+H2,2003,2003,2003,2,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,31294080,,,0
+H2,2003,2003,2003,2,0,2,Export,175,Mayotte,MYT,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,7020,,,0
+H2,2003,2003,2003,2,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,19963436,,,0
+H2,2003,2003,2003,2,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,286460310,,,0
+H2,2003,2003,2003,2,0,2,Export,192,Cuba,CUB,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,532097,,,0
+H2,2003,2003,2003,2,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,844102,,,0
+H2,2003,2003,2003,2,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,931152918,,,0
+H2,2003,2003,2003,2,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,805131574,,,0
+H2,2003,2003,2003,2,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,84842382,,,0
+H2,2003,2003,2003,2,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1500586,,,0
+H2,2003,2003,2003,2,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,689929119,,,0
+H2,2003,2003,2003,2,0,2,Export,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,21763,,,0
+H2,2003,2003,2003,2,0,2,Export,242,Fiji,FJI,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,17086856,,,0
+H2,2003,2003,2003,2,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2824301017,,,0
+H2,2003,2003,2003,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2260764680,,,0
+H2,2003,2003,2003,2,0,2,Export,258,French Polynesia,PYF,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,50889,,,0
+H2,2003,2003,2003,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,4932123000,,,0
+H2,2003,2003,2003,2,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,52878444,,,0
+H2,2003,2003,2003,2,0,2,Export,304,Greenland,GRL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1532,,,0
+H2,2003,2003,2003,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,19649021,,,0
+H2,2003,2003,2003,2,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,59511920,,,0
+H2,2003,2003,2003,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,874715732,,,0
+H2,2003,2003,2003,2,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,472190000,,,0
+H2,2003,2003,2003,2,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,272057,,,0
+H2,2003,2003,2003,2,0,2,Export,364,Iran,IRN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,9059610,,,0
+H2,2003,2003,2003,2,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,324690804,,,0
+H2,2003,2003,2003,2,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,12892000,,,0
+H2,2003,2003,2003,2,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1406030964,,,0
+H2,2003,2003,2003,2,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,258623678,,,0
+H2,2003,2003,2003,2,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,82770090,,,0
+H2,2003,2003,2003,2,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,14757317,,,0
+H2,2003,2003,2003,2,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,10326729,,,0
+H2,2003,2003,2003,2,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,80944417,,,0
+H2,2003,2003,2003,2,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,357731,,,0
+H2,2003,2003,2003,2,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,17460255,,,0
+H2,2003,2003,2003,2,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1019584764,,,0
+H2,2003,2003,2003,2,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,384711496,,,0
+H2,2003,2003,2003,2,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,190812591,,,0
+H2,2003,2003,2003,2,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1333386,,,0
+H2,2003,2003,2003,2,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,6122116,,,0
+H2,2003,2003,2003,2,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1979748,,,0
+H2,2003,2003,2003,2,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,3135930391,,,0
+H2,2003,2003,2003,2,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,345140,,,0
+H2,2003,2003,2003,2,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2062401,,,0
+H2,2003,2003,2003,2,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,331222709,,,0
+H2,2003,2003,2003,2,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,527981,,,0
+H2,2003,2003,2003,2,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,29930118,,,0
+H2,2003,2003,2003,2,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,15967649,,,0
+H2,2003,2003,2003,2,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,312715,,,0
+H2,2003,2003,2003,2,0,2,Export,524,Nepal,NPL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,4375250,,,0
+H2,2003,2003,2003,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,603692560,,,0
+H2,2003,2003,2003,2,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,153715,,,0
+H2,2003,2003,2003,2,0,2,Export,540,New Caledonia,NCL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,315308,,,0
+H2,2003,2003,2003,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1210850980,,,0
+H2,2003,2003,2003,2,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,16170796,,,0
+H2,2003,2003,2003,2,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,28825,,,0
+H2,2003,2003,2003,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,364962870,,,0
+H2,2003,2003,2003,2,0,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,9740532,,,0
+H2,2003,2003,2003,2,0,2,Export,591,Panama,PAN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,9452342,,,0
+H2,2003,2003,2003,2,0,2,Export,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,66840264,,,0
+H2,2003,2003,2003,2,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,58841258,,,0
+H2,2003,2003,2003,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,97374081,,,0
+H2,2003,2003,2003,2,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1765725000,,,0
+H2,2003,2003,2003,2,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,478114813,,,0
+H2,2003,2003,2003,2,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,794613760,,,0
+H2,2003,2003,2003,2,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,3472458528,,,0
+H2,2003,2003,2003,2,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,17585355,,,0
+H2,2003,2003,2003,2,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1383642,,,0
+H2,2003,2003,2003,2,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,49899531,,,0
+H2,2003,2003,2003,2,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,192443208,,,0
+H2,2003,2003,2003,2,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,431671506,,,0
+H2,2003,2003,2003,2,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,352189675,,,0
+H2,2003,2003,2003,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,440429117,,,0
+H2,2003,2003,2003,2,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,29122665,,,0
+H2,2003,2003,2003,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,915748263,,,0
+H2,2003,2003,2003,2,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,3559143144,,,0
+H2,2003,2003,2003,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,537736544,,,0
+H2,2003,2003,2003,2,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,721097322,,,0
+H2,2003,2003,2003,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,73054630,,,0
+H2,2003,2003,2003,2,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,9585069,,,0
+H2,2003,2003,2003,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,145381167,,,0
+H2,2003,2003,2003,2,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,847714,,,0
+H2,2003,2003,2003,2,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,5004551,,,0
+H2,2003,2003,2003,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,698513561,,,0
+H2,2003,2003,2003,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,5182425947,,,0
+H2,2003,2003,2003,2,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,71889878,,,0
+H2,2003,2003,2003,2,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,4508907,,,4
+H2,2004,2004,2004,2,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,9513490,,,0
+H2,2004,2004,2004,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,209705,,,0
+H2,2004,2004,2004,2,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1128130,,,0
+H2,2004,2004,2004,2,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,914110,,,0
+H2,2004,2004,2004,2,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,272354964,,,0
+H2,2004,2004,2004,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,927796326,,,0
+H2,2004,2004,2004,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,3764409315,,,0
+H2,2004,2004,2004,2,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,548815,,,0
+H2,2004,2004,2004,2,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,654882,,,0
+H2,2004,2004,2004,2,0,2,Export,50,Bangladesh,BGD,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2345648,,,0
+H2,2004,2004,2004,2,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1496151,,,0
+H2,2004,2004,2004,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2665833769,,,0
+H2,2004,2004,2004,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,56280755,,,0
+H2,2004,2004,2004,2,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,218506138,,,0
+H2,2004,2004,2004,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,3045213899,,,0
+H2,2004,2004,2004,2,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,50136297,,,0
+H2,2004,2004,2004,2,0,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,211668,,,0
+H2,2004,2004,2004,2,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,186073714,,,0
+H2,2004,2004,2004,2,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,396672100,,,0
+H2,2004,2004,2004,2,0,2,Export,116,Cambodia,KHM,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,9428037,,,0
+H2,2004,2004,2004,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,16913706300,,,0
+H2,2004,2004,2004,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,27346791,,,0
+H2,2004,2004,2004,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1698986377,,,0
+H2,2004,2004,2004,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,5014671575,,,0
+H2,2004,2004,2004,2,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,32092570,,,0
+H2,2004,2004,2004,2,0,2,Export,175,Mayotte,MYT,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,3719,,,0
+H2,2004,2004,2004,2,0,2,Export,184,Cook Isds,COK,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,135,,,0
+H2,2004,2004,2004,2,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,23890692,,,0
+H2,2004,2004,2004,2,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,337036680,,,0
+H2,2004,2004,2004,2,0,2,Export,192,Cuba,CUB,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,425124,,,0
+H2,2004,2004,2004,2,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,888713,,,0
+H2,2004,2004,2004,2,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1134606213,,,0
+H2,2004,2004,2004,2,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,920709063,,,0
+H2,2004,2004,2004,2,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,85836952,,,0
+H2,2004,2004,2004,2,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1782255,,,0
+H2,2004,2004,2004,2,0,2,Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,65163,,,0
+H2,2004,2004,2004,2,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,761944230,,,0
+H2,2004,2004,2004,2,0,2,Export,242,Fiji,FJI,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,24744792,,,0
+H2,2004,2004,2004,2,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,3118678417,,,0
+H2,2004,2004,2004,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2580149772,,,0
+H2,2004,2004,2004,2,0,2,Export,258,French Polynesia,PYF,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,70735,,,0
+H2,2004,2004,2004,2,0,2,Export,266,Gabon,GAB,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,371820402,,,0
+H2,2004,2004,2004,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,6107813000,,,0
+H2,2004,2004,2004,2,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,140360809,,,0
+H2,2004,2004,2004,2,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,77603104,,,0
+H2,2004,2004,2004,2,0,2,Export,304,Greenland,GRL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,3087,,,0
+H2,2004,2004,2004,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,21144422,,,0
+H2,2004,2004,2004,2,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,57656123,,,0
+H2,2004,2004,2004,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,721023279,,,0
+H2,2004,2004,2004,2,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,541178000,,,0
+H2,2004,2004,2004,2,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,155129,,,0
+H2,2004,2004,2004,2,0,2,Export,364,Iran,IRN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,9551089,,,0
+H2,2004,2004,2004,2,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,375457531,,,0
+H2,2004,2004,2004,2,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,17001000,,,0
+H2,2004,2004,2004,2,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1719292458,,,0
+H2,2004,2004,2004,2,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,345322650,,,0
+H2,2004,2004,2004,2,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1286506,,,0
+H2,2004,2004,2004,2,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,89896571,,,0
+H2,2004,2004,2004,2,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,277923,,,0
+H2,2004,2004,2004,2,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,18796111,,,0
+H2,2004,2004,2004,2,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,11074409,,,0
+H2,2004,2004,2004,2,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,97292653,,,0
+H2,2004,2004,2004,2,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,424660,,,0
+H2,2004,2004,2004,2,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,20629000,,,0
+H2,2004,2004,2004,2,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1206970089,,,0
+H2,2004,2004,2004,2,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,461871420,,,0
+H2,2004,2004,2004,2,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,210815028,,,0
+H2,2004,2004,2004,2,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1384557,,,0
+H2,2004,2004,2004,2,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,11952262,,,0
+H2,2004,2004,2004,2,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2228879,,,0
+H2,2004,2004,2004,2,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,3797966821,,,0
+H2,2004,2004,2004,2,0,2,Export,462,Maldives,MDV,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1016,,,0
+H2,2004,2004,2004,2,0,2,Export,466,Mali,MLI,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,78341,,,0
+H2,2004,2004,2004,2,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,446068,,,0
+H2,2004,2004,2004,2,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2449822,,,0
+H2,2004,2004,2004,2,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,381167324,,,0
+H2,2004,2004,2004,2,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,311286717,,,0
+H2,2004,2004,2004,2,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1186909,,,0
+H2,2004,2004,2004,2,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,3455512,,,0
+H2,2004,2004,2004,2,0,2,Export,500,Montserrat,MSR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,9301,,,0
+H2,2004,2004,2004,2,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,45657907,,,0
+H2,2004,2004,2004,2,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,33600943,,,0
+H2,2004,2004,2004,2,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,524361,,,0
+H2,2004,2004,2004,2,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,11143261,,,0
+H2,2004,2004,2004,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,795676187,,,0
+H2,2004,2004,2004,2,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,140095,,,0
+H2,2004,2004,2004,2,0,2,Export,540,New Caledonia,NCL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,270955,,,0
+H2,2004,2004,2004,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1392003179,,,0
+H2,2004,2004,2004,2,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,14956960,,,0
+H2,2004,2004,2004,2,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,59575,,,0
+H2,2004,2004,2004,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,394530107,,,0
+H2,2004,2004,2004,2,0,2,Export,583,FS Micronesia,FSM,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,3720,,,0
+H2,2004,2004,2004,2,0,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,11681509,,,0
+H2,2004,2004,2004,2,0,2,Export,591,Panama,PAN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,14427343,,,0
+H2,2004,2004,2004,2,0,2,Export,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,182504930,,,0
+H2,2004,2004,2004,2,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,67215457,,,0
+H2,2004,2004,2004,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,122146519,,,0
+H2,2004,2004,2004,2,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,2259188328,,,0
+H2,2004,2004,2004,2,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,594152338,,,0
+H2,2004,2004,2004,2,0,2,Export,626,Timor-Leste,TLS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,104611,,,0
+H2,2004,2004,2004,2,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1028141307,,,0
+H2,2004,2004,2004,2,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,4522693097,,,0
+H2,2004,2004,2004,2,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,26506966,,,0
+H2,2004,2004,2004,2,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1406387,,,0
+H2,2004,2004,2004,2,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,82290655,,,0
+H2,2004,2004,2004,2,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,195416829,,,0
+H2,2004,2004,2004,2,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,567334035,,,0
+H2,2004,2004,2004,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,210231506,,,0
+H2,2004,2004,2004,2,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,395300347,,,0
+H2,2004,2004,2004,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,472587849,,,0
+H2,2004,2004,2004,2,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,78729870,,,4
+H2,2004,2004,2004,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1106187781,,,0
+H2,2004,2004,2004,2,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,3867865618,,,0
+H2,2004,2004,2004,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,635598407,,,0
+H2,2004,2004,2004,2,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,899482484,,,0
+H2,2004,2004,2004,2,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,535506,,,0
+H2,2004,2004,2004,2,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,7980098,,,0
+H2,2004,2004,2004,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,88661006,,,0
+H2,2004,2004,2004,2,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,12623290,,,0
+H2,2004,2004,2004,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,203275749,,,0
+H2,2004,2004,2004,2,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,1454295,,,0
+H2,2004,2004,2004,2,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,6454259,,,0
+H2,2004,2004,2004,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,749465767,,,0
+H2,2004,2004,2004,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,5892661199,,,0
+H2,2004,2004,2004,2,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,121761,,,0
+H2,2004,2004,2004,2,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,,,,,,,106473444,,,0
+H2,2004,2004,2004,2,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,13754523,,,0
+H1,2000,2000,2000,2,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,7359715,,,0
+H1,2000,2000,2000,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,182525,,,0
+H1,2000,2000,2000,2,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,562684,,,0
+H1,2000,2000,2000,2,0,2,Export,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,183840,,,0
+H1,2000,2000,2000,2,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,780237,,,0
+H1,2000,2000,2000,2,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,92115468,,,0
+H1,2000,2000,2000,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,601704532,,,0
+H1,2000,2000,2000,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2291604720,,,0
+H1,2000,2000,2000,2,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1105495,,,0
+H1,2000,2000,2000,2,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,824626,,,0
+H1,2000,2000,2000,2,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,111444,,,0
+H1,2000,2000,2000,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1734828813,,,0
+H1,2000,2000,2000,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,57804261,,,0
+H1,2000,2000,2000,2,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,423143,,,0
+H1,2000,2000,2000,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1478725734,,,0
+H1,2000,2000,2000,2,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2644888,,,0
+H1,2000,2000,2000,2,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,93384255,,,0
+H1,2000,2000,2000,2,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,178359500,,,0
+H1,2000,2000,2000,2,0,2,Export,116,Cambodia,KHM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,34602295,,,0
+H1,2000,2000,2000,2,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,330562090,,,0
+H1,2000,2000,2000,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,13396689180,,,0
+H1,2000,2000,2000,2,0,2,Export,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,21835,,,0
+H1,2000,2000,2000,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,10983102,,,0
+H1,2000,2000,2000,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,920670355,,,0
+H1,2000,2000,2000,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2102368816,,,0
+H1,2000,2000,2000,2,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,26185675,,,0
+H1,2000,2000,2000,2,0,2,Export,175,Mayotte,MYT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,6604,,,0
+H1,2000,2000,2000,2,0,2,Export,184,Cook Isds,COK,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,969,,,0
+H1,2000,2000,2000,2,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,30353282,,,0
+H1,2000,2000,2000,2,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,226039662,,,0
+H1,2000,2000,2000,2,0,2,Export,192,Cuba,CUB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,410502,,,0
+H1,2000,2000,2000,2,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,839615,,,0
+H1,2000,2000,2000,2,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,670327513,,,0
+H1,2000,2000,2000,2,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2806796,,,0
+H1,2000,2000,2000,2,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,749900965,,,0
+H1,2000,2000,2000,2,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,27681,,,0
+H1,2000,2000,2000,2,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,64148863,,,0
+H1,2000,2000,2000,2,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,843030,,,0
+H1,2000,2000,2000,2,0,2,Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,0,,,,0,,1194,,,0
+H1,2000,2000,2000,2,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,430460307,,,0
+H1,2000,2000,2000,2,0,2,Export,234,Faeroe Isds,FRO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,870,,,0
+H1,2000,2000,2000,2,0,2,Export,242,Fiji,FJI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,21253911,,,0
+H1,2000,2000,2000,2,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2376711099,,,0
+H1,2000,2000,2000,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2095679966,,,0
+H1,2000,2000,2000,2,0,2,Export,258,French Polynesia,PYF,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,148201,,,0
+H1,2000,2000,2000,2,0,2,Export,266,Gabon,GAB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,341889233,,,0
+H1,2000,2000,2000,2,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,7491734,,,0
+H1,2000,2000,2000,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3478969000,,,0
+H1,2000,2000,2000,2,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,32429265,,,0
+H1,2000,2000,2000,2,0,2,Export,304,Greenland,GRL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3833,,,0
+H1,2000,2000,2000,2,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,15011,,,0
+H1,2000,2000,2000,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,20494776,,,0
+H1,2000,2000,2000,2,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,7092997,,,0
+H1,2000,2000,2000,2,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,38943201,,,0
+H1,2000,2000,2000,2,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,67238931,,,0
+H1,2000,2000,2000,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1257629307,,,0
+H1,2000,2000,2000,2,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,2200,,365718000,,,0
+H1,2000,2000,2000,2,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1230551,,,0
+H1,2000,2000,2000,2,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3637450541,,,0
+H1,2000,2000,2000,2,0,2,Export,364,Iran,IRN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,4012578,,,0
+H1,2000,2000,2000,2,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,171211578,,,0
+H1,2000,2000,2000,2,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,10505000,,,0
+H1,2000,2000,2000,2,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1332543854,,,0
+H1,2000,2000,2000,2,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,336261481,,,0
+H1,2000,2000,2000,2,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2174017,,,0
+H1,2000,2000,2000,2,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,75447687,,,0
+H1,2000,2000,2000,2,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,7383300,,,0
+H1,2000,2000,2000,2,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2206974,,,0
+H1,2000,2000,2000,2,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,11725710,,,0
+H1,2000,2000,2000,2,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,121200715,,,0
+H1,2000,2000,2000,2,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,561480,,,0
+H1,2000,2000,2000,2,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,4217176,,,0
+H1,2000,2000,2000,2,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,700295076,,,0
+H1,2000,2000,2000,2,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,223735324,,,0
+H1,2000,2000,2000,2,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,123267822,,,0
+H1,2000,2000,2000,2,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1333535,,,0
+H1,2000,2000,2000,2,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,9466235,,,0
+H1,2000,2000,2000,2,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,793581,,,0
+H1,2000,2000,2000,2,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3535331463,,,0
+H1,2000,2000,2000,2,0,2,Export,466,Mali,MLI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,25148,,,0
+H1,2000,2000,2000,2,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,115869,,,0
+H1,2000,2000,2000,2,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1162136,,,0
+H1,2000,2000,2000,2,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,538989942,,,0
+H1,2000,2000,2000,2,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,381299963,,,0
+H1,2000,2000,2000,2,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,875390,,,0
+H1,2000,2000,2000,2,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,752522,,,0
+H1,2000,2000,2000,2,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1061480,,,0
+H1,2000,2000,2000,2,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1457075,,,0
+H1,2000,2000,2000,2,0,2,Export,524,Nepal,NPL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,0,,,,0,,764417,,,0
+H1,2000,2000,2000,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,532658882,,,0
+H1,2000,2000,2000,2,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,232307,,,0
+H1,2000,2000,2000,2,0,2,Export,548,Vanuatu,VUT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3151161,,,0
+H1,2000,2000,2000,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,994838689,,,0
+H1,2000,2000,2000,2,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,16416888,,,0
+H1,2000,2000,2000,2,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,6266,,,0
+H1,2000,2000,2000,2,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,423547,,,0
+H1,2000,2000,2000,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,363592868,,,0
+H1,2000,2000,2000,2,0,2,Export,591,Panama,PAN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,6713373,,,0
+H1,2000,2000,2000,2,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,73507895,,,0
+H1,2000,2000,2000,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,70485283,,,0
+H1,2000,2000,2000,2,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,262882324,,,0
+H1,2000,2000,2000,2,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1106472000,,,0
+H1,2000,2000,2000,2,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,351963835,,,0
+H1,2000,2000,2000,2,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,52638,,,0
+H1,2000,2000,2000,2,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,0,,,,0,,558854976,,,0
+H1,2000,2000,2000,2,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2424316428,,,0
+H1,2000,2000,2000,2,0,2,Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,33348,,,0
+H1,2000,2000,2000,2,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,16834,,,0
+H1,2000,2000,2000,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,449775,,,0
+H1,2000,2000,2000,2,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,6877,,,0
+H1,2000,2000,2000,2,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,4164272,,,0
+H1,2000,2000,2000,2,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,844348,,,0
+H1,2000,2000,2000,2,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,30617900,,,0
+H1,2000,2000,2000,2,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,227655024,,,0
+H1,2000,2000,2000,2,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,287128902,,,0
+H1,2000,2000,2000,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,135470000,,,0
+H1,2000,2000,2000,2,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,293934856,,,0
+H1,2000,2000,2000,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,326470633,,,0
+H1,2000,2000,2000,2,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,0,,,,0,,25908282,,,4
+H1,2000,2000,2000,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,659236794,,,0
+H1,2000,2000,2000,2,0,2,Export,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,272976,,,0
+H1,2000,2000,2000,2,0,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,15242902,,,0
+H1,2000,2000,2000,2,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2816390174,,,0
+H1,2000,2000,2000,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,534393115,,,0
+H1,2000,2000,2000,2,0,2,Export,762,Tajikistan,TJK,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,5000,,,0
+H1,2000,2000,2000,2,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,581215220,,,0
+H1,2000,2000,2000,2,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1706917,,,0
+H1,2000,2000,2000,2,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,11290069,,,0
+H1,2000,2000,2000,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,29516478,,,0
+H1,2000,2000,2000,2,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,8263230,,,0
+H1,2000,2000,2000,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,61475776,,,0
+H1,2000,2000,2000,2,0,2,Export,795,Turkmenistan,TKM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2205,,,0
+H1,2000,2000,2000,2,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,41032,,,0
+H1,2000,2000,2000,2,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,8257382,,,0
+H1,2000,2000,2000,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,492098331,,,0
+H1,2000,2000,2000,2,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3893621,,,0
+H1,2000,2000,2000,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,6329831289,,,0
+H1,2000,2000,2000,2,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,222085,,,0
+H1,2000,2000,2000,2,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,48516737,,,0
+H1,2000,2000,2000,2,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2886544,,,0
+H1,2000,2000,2000,2,0,2,Export,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,106872000,,,0
+H1,2001,2001,2001,2,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,8693294,,,0
+H1,2001,2001,2001,2,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,29376,,,0
+H1,2001,2001,2001,2,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,609297,,,0
+H1,2001,2001,2001,2,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,378813,,,0
+H1,2001,2001,2001,2,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,76001343,,,0
+H1,2001,2001,2001,2,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,553241000,,,0
+H1,2001,2001,2001,2,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2234113600,,,0
+H1,2001,2001,2001,2,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,320117,,,0
+H1,2001,2001,2001,2,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,848405,,,0
+H1,2001,2001,2001,2,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,157705,,,0
+H1,2001,2001,2001,2,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1706321396,,,0
+H1,2001,2001,2001,2,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,41008867,,,0
+H1,2001,2001,2001,2,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,321938,,,0
+H1,2001,2001,2001,2,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1492036898,,,0
+H1,2001,2001,2001,2,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1682146,,,0
+H1,2001,2001,2001,2,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,86594677,,,0
+H1,2001,2001,2001,2,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,176600800,,,0
+H1,2001,2001,2001,2,0,2,Export,116,Cambodia,KHM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,23149510,,,0
+H1,2001,2001,2001,2,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,288391980,,,0
+H1,2001,2001,2001,2,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,12352136873,,,0
+H1,2001,2001,2001,2,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,10790451,,,0
+H1,2001,2001,2001,2,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1158294977,,,0
+H1,2001,2001,2001,2,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2304911697,,,0
+H1,2001,2001,2001,2,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,29445975,,,0
+H1,2001,2001,2001,2,0,2,Export,175,Mayotte,MYT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,15706,,,0
+H1,2001,2001,2001,2,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,16265355,,,0
+H1,2001,2001,2001,2,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,206203617,,,0
+H1,2001,2001,2001,2,0,2,Export,192,Cuba,CUB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,860552,,,0
+H1,2001,2001,2001,2,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,510543,,,0
+H1,2001,2001,2001,2,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,681562731,,,0
+H1,2001,2001,2001,2,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3104885,,,0
+H1,2001,2001,2001,2,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,671855852,,,0
+H1,2001,2001,2001,2,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,18216,,,0
+H1,2001,2001,2001,2,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1810000,,,0
+H1,2001,2001,2001,2,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,68695300,,,0
+H1,2001,2001,2001,2,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1132211,,,0
+H1,2001,2001,2001,2,0,2,Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,0,,,,0,,17075,,,0
+H1,2001,2001,2001,2,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,441454497,,,0
+H1,2001,2001,2001,2,0,2,Export,242,Fiji,FJI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,18996905,,,0
+H1,2001,2001,2001,2,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2259501571,,,0
+H1,2001,2001,2001,2,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1891614846,,,0
+H1,2001,2001,2001,2,0,2,Export,258,French Polynesia,PYF,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,53210,,,0
+H1,2001,2001,2001,2,0,2,Export,266,Gabon,GAB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,331089389,,,0
+H1,2001,2001,2001,2,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,4177772,,,0
+H1,2001,2001,2001,2,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3787966000,,,0
+H1,2001,2001,2001,2,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,30015608,,,0
+H1,2001,2001,2001,2,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,23156,,,0
+H1,2001,2001,2001,2,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,23393757,,,0
+H1,2001,2001,2001,2,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,694530,,,0
+H1,2001,2001,2001,2,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,36931373,,,0
+H1,2001,2001,2001,2,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,60647319,,,0
+H1,2001,2001,2001,2,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1069275541,,,0
+H1,2001,2001,2001,2,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,363219000,,,0
+H1,2001,2001,2001,2,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,382897,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3353569241,,,0
+H1,2001,2001,2001,2,0,2,Export,364,Iran,IRN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,6959243,,,0
+H1,2001,2001,2001,2,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,210283091,,,0
+H1,2001,2001,2001,2,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,9378000,,,0
+H1,2001,2001,2001,2,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1283900748,,,0
+H1,2001,2001,2001,2,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,276881200,,,0
+H1,2001,2001,2001,2,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1344680,,,0
+H1,2001,2001,2001,2,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,59992568,,,0
+H1,2001,2001,2001,2,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,8366600,,,0
+H1,2001,2001,2001,2,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2025223,,,0
+H1,2001,2001,2001,2,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,11005932,,,0
+H1,2001,2001,2001,2,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,90931397,,,0
+H1,2001,2001,2001,2,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,335001,,,0
+H1,2001,2001,2001,2,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,9156728,,,0
+H1,2001,2001,2001,2,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,680424409,,,0
+H1,2001,2001,2001,2,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,239676994,,,0
+H1,2001,2001,2001,2,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,115758435,,,0
+H1,2001,2001,2001,2,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1441719,,,0
+H1,2001,2001,2001,2,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,10273181,,,0
+H1,2001,2001,2001,2,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1927741,,,0
+H1,2001,2001,2001,2,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2812096681,,,0
+H1,2001,2001,2001,2,0,2,Export,466,Mali,MLI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,65435,,,0
+H1,2001,2001,2001,2,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,77959,,,0
+H1,2001,2001,2001,2,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1156535,,,0
+H1,2001,2001,2001,2,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,386888601,,,0
+H1,2001,2001,2001,2,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,309702938,,,0
+H1,2001,2001,2001,2,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,222883,,,0
+H1,2001,2001,2001,2,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,972340,,,0
+H1,2001,2001,2001,2,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,12345302,,,0
+H1,2001,2001,2001,2,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,701755,,,0
+H1,2001,2001,2001,2,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2490375,,,0
+H1,2001,2001,2001,2,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,471300400,,,0
+H1,2001,2001,2001,2,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,137531,,,0
+H1,2001,2001,2001,2,0,2,Export,540,New Caledonia,NCL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,83230,,,0
+H1,2001,2001,2001,2,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,947602817,,,0
+H1,2001,2001,2001,2,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,16252305,,,0
+H1,2001,2001,2001,2,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,11114,,,0
+H1,2001,2001,2001,2,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,10962,,,0
+H1,2001,2001,2001,2,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,319526879,,,0
+H1,2001,2001,2001,2,0,2,Export,591,Panama,PAN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,8861902,,,0
+H1,2001,2001,2001,2,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,67333873,,,0
+H1,2001,2001,2001,2,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,77864120,,,0
+H1,2001,2001,2001,2,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,147138982,,,0
+H1,2001,2001,2001,2,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1094664000,,,0
+H1,2001,2001,2001,2,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,351350835,,,0
+H1,2001,2001,2001,2,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,13439,,,0
+H1,2001,2001,2001,2,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,525380000,,,0
+H1,2001,2001,2001,2,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2463612630,,,0
+H1,2001,2001,2001,2,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,69160,,,0
+H1,2001,2001,2001,2,0,2,Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,13479,,,0
+H1,2001,2001,2001,2,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,40258,,,0
+H1,2001,2001,2001,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,288750,,,0
+H1,2001,2001,2001,2,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,102,,,0
+H1,2001,2001,2001,2,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3828271,,,0
+H1,2001,2001,2001,2,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1077098,,,0
+H1,2001,2001,2001,2,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,7030,,,0
+H1,2001,2001,2001,2,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,30260421,,,0
+H1,2001,2001,2001,2,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,188641365,,,0
+H1,2001,2001,2001,2,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,306921028,,,0
+H1,2001,2001,2001,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,147865446,,,0
+H1,2001,2001,2001,2,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,272337943,,,0
+H1,2001,2001,2001,2,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,319815412,,,0
+H1,2001,2001,2001,2,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,0,,,,0,,5487830,,,0
+H1,2001,2001,2001,2,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,704926360,,,0
+H1,2001,2001,2001,2,0,2,Export,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,143055,,,0
+H1,2001,2001,2001,2,0,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,11663815,,,0
+H1,2001,2001,2001,2,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2643871073,,,0
+H1,2001,2001,2001,2,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,475962048,,,0
+H1,2001,2001,2001,2,0,2,Export,760,Syria,SYR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,452295,,,0
+H1,2001,2001,2001,2,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,574056519,,,0
+H1,2001,2001,2001,2,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1839399,,,0
+H1,2001,2001,2001,2,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,10591979,,,0
+H1,2001,2001,2001,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,40891658,,,0
+H1,2001,2001,2001,2,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,10475984,,,0
+H1,2001,2001,2001,2,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,109562626,,,0
+H1,2001,2001,2001,2,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,376537,,,0
+H1,2001,2001,2001,2,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,229796460,,,0
+H1,2001,2001,2001,2,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,4363502,,,0
+H1,2001,2001,2001,2,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,468325373,,,0
+H1,2001,2001,2001,2,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3023453,,,0
+H1,2001,2001,2001,2,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,5253676705,,,0
+H1,2001,2001,2001,2,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,386961,,,0
+H1,2001,2001,2001,2,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,49024162,,,0
+H1,2001,2001,2001,2,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3398563,,,0
+H1,2001,2001,2001,2,0,2,Export,882,Samoa,WSM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,48274,,,0
+H1,2001,2001,2001,2,0,2,Export,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,108475677,,,0
+H1,2002,2002,2002,2,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,8621218,,,0
+H1,2002,2002,2002,2,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,407408,,,0
+H1,2002,2002,2002,2,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,265107,,,0
+H1,2002,2002,2002,2,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1249587,,,0
+H1,2002,2002,2002,2,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,498399,,,0
+H1,2002,2002,2002,2,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,522437,,,0
+H1,2002,2002,2002,2,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1499997,,,0
+H1,2002,2002,2002,2,0,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,246564,,,0
+H1,2002,2002,2002,2,0,2,Export,116,Cambodia,KHM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,16183750,,,0
+H1,2002,2002,2002,2,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,273596673,,,0
+H1,2002,2002,2002,2,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,19387925,,,0
+H1,2002,2002,2002,2,0,2,Export,192,Cuba,CUB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,372515,,,0
+H1,2002,2002,2002,2,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,7175180,,,0
+H1,2002,2002,2002,2,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,42953,,,0
+H1,2002,2002,2002,2,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3038615,,,0
+H1,2002,2002,2002,2,0,2,Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,0,,,,0,,14522,,,0
+H1,2002,2002,2002,2,0,2,Export,242,Fiji,FJI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,18757313,,,0
+H1,2002,2002,2002,2,0,2,Export,258,French Polynesia,PYF,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,29204,,,0
+H1,2002,2002,2002,2,0,2,Export,266,Gabon,GAB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,291081933,,,0
+H1,2002,2002,2002,2,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,5380252,,,0
+H1,2002,2002,2002,2,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,8378,,,0
+H1,2002,2002,2002,2,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,9620,,,0
+H1,2002,2002,2002,2,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,739326,,,0
+H1,2002,2002,2002,2,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,38065360,,,0
+H1,2002,2002,2002,2,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,57724644,,,0
+H1,2002,2002,2002,2,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3278138582,,,0
+H1,2002,2002,2002,2,0,2,Export,364,Iran,IRN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,10132879,,,0
+H1,2002,2002,2002,2,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,253361751,,,0
+H1,2002,2002,2002,2,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1169081,,,0
+H1,2002,2002,2002,2,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,5202500,,,0
+H1,2002,2002,2002,2,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,355993,,,0
+H1,2002,2002,2002,2,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1560803,,,0
+H1,2002,2002,2002,2,0,2,Export,466,Mali,MLI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,38400,,,0
+H1,2002,2002,2002,2,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,286164434,,,0
+H1,2002,2002,2002,2,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,846523,,,0
+H1,2002,2002,2002,2,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3188229,,,0
+H1,2002,2002,2002,2,0,2,Export,540,New Caledonia,NCL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,128290,,,0
+H1,2002,2002,2002,2,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,8414196,,,0
+H1,2002,2002,2002,2,0,2,Export,591,Panama,PAN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,7377767,,,0
+H1,2002,2002,2002,2,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,54320450,,,0
+H1,2002,2002,2002,2,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,143870992,,,0
+H1,2002,2002,2002,2,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,252473,,,0
+H1,2002,2002,2002,2,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,10609,,,0
+H1,2002,2002,2002,2,0,2,Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,35552,,,0
+H1,2002,2002,2002,2,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,49891,,,0
+H1,2002,2002,2002,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,220868,,,0
+H1,2002,2002,2002,2,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,312,,,0
+H1,2002,2002,2002,2,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1145366,,,0
+H1,2002,2002,2002,2,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,42649863,,,0
+H1,2002,2002,2002,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,154077760,,,0
+H1,2002,2002,2002,2,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,0,,,,0,,24555237,,,0
+H1,2002,2002,2002,2,0,2,Export,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,203305,,,0
+H1,2002,2002,2002,2,0,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,15508360,,,0
+H1,2002,2002,2002,2,0,2,Export,760,Syria,SYR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,607930,,,0
+H1,2002,2002,2002,2,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,833530,,,0
+H1,2002,2002,2002,2,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,9576909,,,0
+H1,2002,2002,2002,2,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,53567623,,,0
+H1,2002,2002,2002,2,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,289638040,,,0
+H1,2002,2002,2002,2,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,4419041,,,0
+H1,2002,2002,2002,2,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1277380,,,0
+H1,2002,2002,2002,2,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,22157200,,,0
+H1,2002,2002,2002,2,0,2,Export,882,Samoa,WSM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,90927,,,0
+H1,2002,2002,2002,2,0,2,Export,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,111488161,,,0
+H1,2003,2003,2003,2,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1044312,,,0
+H1,2003,2003,2003,2,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,581030,,,0
+H1,2003,2003,2003,2,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,440840,,,0
+H1,2003,2003,2003,2,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2240152,,,0
+H1,2003,2003,2003,2,0,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,139513,,,0
+H1,2003,2003,2003,2,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,14485,,,0
+H1,2003,2003,2003,2,0,2,Export,116,Cambodia,KHM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,9460798,,,0
+H1,2003,2003,2003,2,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,355352856,,,0
+H1,2003,2003,2003,2,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,4615862,,,0
+H1,2003,2003,2003,2,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,26916,,,0
+H1,2003,2003,2003,2,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2182408,,,0
+H1,2003,2003,2003,2,0,2,Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,0,,,,0,,26676,,,0
+H1,2003,2003,2003,2,0,2,Export,266,Gabon,GAB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,206252450,,,0
+H1,2003,2003,2003,2,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,10352191,,,0
+H1,2003,2003,2003,2,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,6902,,,0
+H1,2003,2003,2003,2,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,179468826,,,0
+H1,2003,2003,2003,2,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,29784,,,0
+H1,2003,2003,2003,2,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,29650903,,,0
+H1,2003,2003,2003,2,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3180500563,,,0
+H1,2003,2003,2003,2,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1137857,,,0
+H1,2003,2003,2003,2,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,240700,,,0
+H1,2003,2003,2003,2,0,2,Export,466,Mali,MLI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,23401,,,0
+H1,2003,2003,2003,2,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,288567300,,,0
+H1,2003,2003,2003,2,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1254525,,,0
+H1,2003,2003,2003,2,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,5971537,,,0
+H1,2003,2003,2003,2,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,77729,,,0
+H1,2003,2003,2003,2,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,165380150,,,0
+H1,2003,2003,2003,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,255962,,,0
+H1,2003,2003,2003,2,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,0,,,,0,,359902,,,0
+H1,2003,2003,2003,2,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,867,,,0
+H1,2003,2003,2003,2,0,2,Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,6291,,,0
+H1,2003,2003,2003,2,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,41774,,,0
+H1,2003,2003,2003,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,438391,,,0
+H1,2003,2003,2003,2,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1390,,,0
+H1,2003,2003,2003,2,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,151852251,,,0
+H1,2003,2003,2003,2,0,2,Export,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,336055,,,0
+H1,2003,2003,2003,2,0,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,24478778,,,0
+H1,2003,2003,2003,2,0,2,Export,760,Syria,SYR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,10377162,,,0
+H1,2003,2003,2003,2,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,532088,,,0
+H1,2003,2003,2003,2,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,8463423,,,0
+H1,2003,2003,2003,2,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,400368800,,,0
+H1,2003,2003,2003,2,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,6945347,,,0
+H1,2003,2003,2003,2,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,362128,,,0
+H1,2003,2003,2003,2,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,29615404,,,0
+H1,2003,2003,2003,2,0,2,Export,882,Samoa,WSM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,32915,,,0
+H1,2004,2004,2004,2,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,409527,,,0
+H1,2004,2004,2004,2,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,842028,,,0
+H1,2004,2004,2004,2,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2723500,,,0
+H1,2004,2004,2004,2,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,13245,,,0
+H1,2004,2004,2004,2,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,462233230,,,0
+H1,2004,2004,2004,2,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3655888,,,0
+H1,2004,2004,2004,2,0,2,Export,212,Dominica,DMA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,10084,,,0
+H1,2004,2004,2004,2,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2765235,,,0
+H1,2004,2004,2004,2,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,12052074,,,0
+H1,2004,2004,2004,2,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,27252,,,0
+H1,2004,2004,2004,2,0,2,Export,308,Grenada,GRD,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,7138,,,0
+H1,2004,2004,2004,2,0,2,Export,324,Guinea,GIN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,6477905,,,0
+H1,2004,2004,2004,2,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,49829004,,,0
+H1,2004,2004,2004,2,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3271421533,,,0
+H1,2004,2004,2004,2,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,166935244,,,0
+H1,2004,2004,2004,2,0,2,Export,624,Guinea-Bissau,GNB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1067,,,0
+H1,2004,2004,2004,2,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,0,,,,0,,493517,,,0
+H1,2004,2004,2004,2,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,6329,,,0
+H1,2004,2004,2004,2,0,2,Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2764,,,0
+H1,2004,2004,2004,2,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,340704,,,0
+H1,2004,2004,2004,2,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,17792,,,0
+H1,2004,2004,2004,2,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,6429,,,0
+H1,2004,2004,2004,2,0,2,Export,736,Fmr Sudan,SDN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,290182,,,0
+H1,2004,2004,2004,2,0,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,29854733,,,0
+H1,2004,2004,2004,2,0,2,Export,760,Syria,SYR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,8846785,,,0
+H1,2004,2004,2004,2,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,516410060,,,0
+H1,2004,2004,2004,2,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,8325723,,,0
+H1,2004,2004,2004,2,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,48360266,,,0
+H1,2004,2004,2004,2,0,2,Export,882,Samoa,WSM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,33843,,,0
+H1,2004,2004,2004,2,0,2,Export,887,Yemen,YEM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,15515,,,0
+H1,2004,2004,2004,2,0,2,Export,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,108246978,,,0
+H0,2000,2000,2000,2,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,464425,,,0
+H0,2000,2000,2000,2,0,2,Export,50,Bangladesh,BGD,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,6327815,,,0
+H0,2000,2000,2000,2,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,25135,,,0
+H0,2000,2000,2000,2,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,7491629,,,0
+H0,2000,2000,2000,2,0,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,77,,,0
+H0,2000,2000,2000,2,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,39870,,,0
+H0,2000,2000,2000,2,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,141891254,,,0
+H0,2000,2000,2000,2,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,551304,,,0
+H0,2000,2000,2000,2,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2883,,,0
+H0,2000,2000,2000,2,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,28668300,,,0
+H0,2000,2000,2000,2,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,14603151,,,0
+H0,2000,2000,2000,2,0,2,Export,540,New Caledonia,NCL,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,82697,,,0
+H0,2000,2000,2000,2,0,2,Export,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,52806373,,,0
+H0,2000,2000,2000,2,0,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,7066,,,0
+H0,2000,2000,2000,2,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,17621,,,0
+H0,2000,2000,2000,2,0,2,Export,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2177,,,0
+H0,2000,2000,2000,2,0,2,Export,740,Suriname,SUR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3325595,,,0
+H0,2000,2000,2000,2,0,2,Export,776,Tonga,TON,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,78426,,,0
+H0,2000,2000,2000,2,0,2,Export,796,Turks and Caicos Isds,TCA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,30253,,,0
+H0,2000,2000,2000,2,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,217435220,,,0
+H0,2000,2000,2000,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3565352,,,0
+H0,2000,2000,2000,2,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,0,,,,0,,3954239,,,0
+H0,2001,2001,2001,2,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,826919,,,0
+H0,2001,2001,2001,2,0,2,Export,50,Bangladesh,BGD,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,8790380,,,0
+H0,2001,2001,2001,2,0,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,253334,,,0
+H0,2001,2001,2001,2,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2620,,,0
+H0,2001,2001,2001,2,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,13841967,,,0
+H0,2001,2001,2001,2,0,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,466,,,0
+H0,2001,2001,2001,2,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,691,,,0
+H0,2001,2001,2001,2,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,87241068,,,0
+H0,2001,2001,2001,2,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,460988,,,0
+H0,2001,2001,2001,2,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,403113,,,0
+H0,2001,2001,2001,2,0,2,Export,500,Montserrat,MSR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,1758,,,0
+H0,2001,2001,2001,2,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,35466048,,,0
+H0,2001,2001,2001,2,0,2,Export,598,Papua New Guinea,PNG,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,82778676,,,0
+H0,2001,2001,2001,2,0,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,16069,,,0
+H0,2001,2001,2001,2,0,2,Export,740,Suriname,SUR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,4500336,,,0
+H0,2001,2001,2001,2,0,2,Export,776,Tonga,TON,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,24671,,,0
+H0,2001,2001,2001,2,0,2,Export,796,Turks and Caicos Isds,TCA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,8752,,,0
+H0,2001,2001,2001,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,5809249,,,0
+H0,2001,2001,2001,2,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,0,,,,0,,7382515,,,0
+H0,2002,2002,2002,2,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,4122,,,0
+H0,2002,2002,2002,2,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,9038854,,,0
+H0,2002,2002,2002,2,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,683475,,,0
+H0,2002,2002,2002,2,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,124095,,,0
+H0,2002,2002,2002,2,0,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3294,,,0
+H0,2002,2002,2002,2,0,2,Export,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,235395,,,0
+H0,2002,2002,2002,2,0,2,Export,740,Suriname,SUR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,4971052,,,0
+H0,2002,2002,2002,2,0,2,Export,776,Tonga,TON,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,27186,,,0
+H0,2002,2002,2002,2,0,2,Export,796,Turks and Caicos Isds,TCA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3243,,,0
+H0,2002,2002,2002,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3275002,,,0
+H0,2003,2003,2003,2,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,15602166,,,0
+H0,2003,2003,2003,2,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2839968,,,0
+H0,2003,2003,2003,2,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,217141,,,0
+H0,2003,2003,2003,2,0,2,Export,500,Montserrat,MSR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,130,,,0
+H0,2003,2003,2003,2,0,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,6242,,,0
+H0,2003,2003,2003,2,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,4416,,,0
+H0,2003,2003,2003,2,0,2,Export,740,Suriname,SUR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3489246,,,0
+H0,2003,2003,2003,2,0,2,Export,776,Tonga,TON,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,64192,,,0
+H0,2003,2003,2003,2,0,2,Export,796,Turks and Caicos Isds,TCA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,9979,,,0
+H0,2003,2003,2003,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,3809126,,,0
+H0,2004,2004,2004,2,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,47297002,,,0
+H0,2004,2004,2004,2,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,5916686,,,0
+H0,2004,2004,2004,2,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,162905,,,0
+H0,2004,2004,2004,2,0,2,Export,660,Anguilla,AIA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,5224,,,0
+H0,2004,2004,2004,2,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,27630,,,0
+H0,2004,2004,2004,2,0,2,Export,740,Suriname,SUR,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,2644740,,,0
+H0,2004,2004,2004,2,0,2,Export,776,Tonga,TON,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,57824,,,0
+H0,2004,2004,2004,2,0,2,Export,796,Turks and Caicos Isds,TCA,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,65,,,0
+H0,2004,2004,2004,2,0,2,Export,798,Tuvalu,TUV,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,294,,,0
+H0,2004,2004,2004,2,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,44,"Wood and articles of wood, wood charcoal",1,No Quantity,,,,,,,5296025,,,0

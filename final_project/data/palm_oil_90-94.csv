@@ -1,0 +1,440 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H0,1990,1990,1990,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,80665198,,,,80665198,,24177399,,,0
+H0,1990,1990,1990,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,53332377,,,,53332377,,22083202,,,0
+H0,1990,1990,1990,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,167,,,,167,,445,,,0
+H0,1990,1990,1990,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1911230,,,,1911230,,374895,,,0
+H0,1990,1990,1990,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,15503954,,,,15503954,,5188799,,,0
+H0,1990,1990,1990,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,547905,,,,547905,,225389,,,0
+H0,1990,1990,1990,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,25804240,,,,25804240,,8595698,,,0
+H0,1990,1990,1990,4,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",1,No Quantity,0,,,,0,,725,,,0
+H0,1990,1990,1990,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,194974,,,,194974,,124283,,,0
+H0,1990,1990,1990,4,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,7515,,,,7515,,6413,,,0
+H0,1990,1990,1990,4,0,3,Re-Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,7515,,,,7515,,6413,,,0
+H0,1990,1990,1990,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,52884596,,,,52884596,,18342874,,,0
+H0,1990,1990,1990,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,10680339,,,,10680339,,8391000,,,0
+H0,1990,1990,1990,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,6342088,,,,6342088,,3736578,,,0
+H0,1990,1990,1990,4,0,1,Import,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,367877536,,,,367877536,,147481008,,,0
+H0,1990,1990,1990,4,0,2,Export,280,Fmr Fed. Rep. of Germany,DEU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,20414404,,,,20414404,,11259000,,,0
+H0,1990,1990,1990,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,14363097,,,,14363097,,5650759,,,0
+H0,1990,1990,1990,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,20160,,,,20160,,22780,,,0
+H0,1990,1990,1990,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,28562,,,,28562,,41749,,,0
+H0,1990,1990,1990,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,26182784,,,,26182784,,7661666,,,0
+H0,1990,1990,1990,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,815379584,,,,815379584,,203506560,,,0
+H0,1990,1990,1990,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,276293747,,,,276293747,,92485264,,,0
+H0,1990,1990,1990,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,292810,,,,292810,,383404,,,0
+H0,1990,1990,1990,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,216492512,,,,216492512,,63158232,,,0
+H0,1990,1990,1990,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,278507,,,,278507,,119126,,,0
+H0,1990,1990,1990,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,7598182,,,,7598182,,4200712,,,0
+H0,1990,1990,1990,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,21966018,,,,21966018,,6066090,,,0
+H0,1990,1990,1990,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,4736951921,,,,4736951921,,1390871243,,,0
+H0,1990,1990,1990,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,118772400,,,,118772400,,36802288,,,0
+H0,1990,1990,1990,4,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,15500,,,,15500,,4898,,,0
+H0,1990,1990,1990,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,12751471,,,,12751471,,4695019,,,0
+H0,1990,1990,1990,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",7,Volume in litres,9324219,,,,0,,3349113,,,0
+H0,1990,1990,1990,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",7,Volume in litres,4562,,,,0,,3391,,,0
+H0,1990,1990,1990,4,0,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",7,Volume in litres,4562,,,,0,,3391,,,0
+H0,1990,1990,1990,4,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,130199,,,,130199,,57124,,,0
+H0,1990,1990,1990,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,34573256,,,,34573256,,11058475,,,0
+H0,1990,1990,1990,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,23901,,,,23901,,27363,,,0
+H0,1990,1990,1990,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,487410816,,,,487410816,,151493792,,,0
+H0,1990,1990,1990,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,446293568,,,,446293568,,121807624,,,0
+H0,1990,1990,1990,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,195819504,,,,195819504,,82229768,,,0
+H0,1990,1990,1990,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,44489956,,,,44489956,,14670346,,,0
+H0,1990,1990,1990,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,14796,,,,14796,,2072,,,0
+H0,1990,1990,1990,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,4204313,,,,4204313,,2297559,,,0
+H0,1990,1990,1990,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,398,,,,398,,2989,,,0
+H0,1990,1990,1990,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,78830,,,,78830,,61048,,,0
+H0,1990,1990,1990,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,181811250,,,,181811250,,59136616,,,0
+H0,1991,1991,1991,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,86172714,,,,86172714,,28376816,,,0
+H0,1991,1991,1991,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,11296,,,,11296,,8707,,,0
+H0,1991,1991,1991,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,37262506,,,,37262506,,15912696,,,0
+H0,1991,1991,1991,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,45465880,,,,45465880,,15939723,,,0
+H0,1991,1991,1991,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1281106,,,,1281106,,378054,,,0
+H0,1991,1991,1991,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,14614814,,,,14614814,,5616442,,,0
+H0,1991,1991,1991,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,922812,,,,922812,,258834,,,0
+H0,1991,1991,1991,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,31017784,,,,31017784,,10790720,,,0
+H0,1991,1991,1991,4,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",1,No Quantity,0,,,,0,,1234,,,0
+H0,1991,1991,1991,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,41,,,,41,,580,,,0
+H0,1991,1991,1991,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,16392284,,,,16392284,,5916539,,,0
+H0,1991,1991,1991,4,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2646749,,,,2646749,,1082406,,,0
+H0,1991,1991,1991,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,245483,,,,245483,,149117,,,0
+H0,1991,1991,1991,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,63275504,,,,63275504,,24352040,,,0
+H0,1991,1991,1991,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,14479693,,,,14479693,,9731384,,,0
+H0,1991,1991,1991,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,31527484,,,,31527484,,4931960,,,0
+H0,1991,1991,1991,4,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1650000,,,,1650000,,1350000,,,0
+H0,1991,1991,1991,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,5094580,,,,5094580,,2908845,,,0
+H0,1991,1991,1991,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,403778688,,,,403778688,,163307008,,,0
+H0,1991,1991,1991,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,22782736,,,,22782736,,12261000,,,0
+H0,1991,1991,1991,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,11125,,,,11125,,13163,,,0
+H0,1991,1991,1991,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,37873516,,,,37873516,,13891197,,,0
+H0,1991,1991,1991,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1167689472,,,,1167689472,,335481344,,,0
+H0,1991,1991,1991,4,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,304822,,,,304822,,260171,,,0
+H0,1991,1991,1991,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,319574596,,,,319574596,,122794820,,,0
+H0,1991,1991,1991,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,193317,,,,193317,,328287,,,0
+H0,1991,1991,1991,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,215028880,,,,215028880,,76129840,,,0
+H0,1991,1991,1991,4,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,17062,,,,17062,,4471,,,0
+H0,1991,1991,1991,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,768354,,,,768354,,314141,,,0
+H0,1991,1991,1991,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,4862417,,,,4862417,,2613813,,,0
+H0,1991,1991,1991,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,280631073,,,,280631073,,82811833,,,0
+H0,1991,1991,1991,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,4698771737,,,,4698771737,,1617869184,,,0
+H0,1991,1991,1991,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,88565696,,,,88565696,,30884536,,,0
+H0,1991,1991,1991,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,13717842,,,,13717842,,5460090,,,0
+H0,1991,1991,1991,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",7,Volume in litres,11147221,,,,0,,4001915,,,0
+H0,1991,1991,1991,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",7,Volume in litres,6937,,,,0,,5816,,,0
+H0,1991,1991,1991,4,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,51000,,,,51000,,26340,,,0
+H0,1991,1991,1991,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,33687140,,,,33687140,,12462569,,,0
+H0,1991,1991,1991,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,17187,,,,17187,,27539,,,0
+H0,1991,1991,1991,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,41000,,,,41000,,46477,,,0
+H0,1991,1991,1991,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,81598368,,,,81598368,,42908768,,,0
+H0,1991,1991,1991,4,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,5113072,,,,5113072,,3409836,,,0
+H0,1991,1991,1991,4,0,3,Re-Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,63517,,,,63517,,54995,,,0
+H0,1991,1991,1991,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,191717344,,,,191717344,,71922696,,,0
+H0,1991,1991,1991,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,14812,,,,14812,,25030,,,0
+H0,1991,1991,1991,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,347349280,,,,347349280,,158431024,,,0
+H0,1991,1991,1991,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,165078432,,,,165078432,,79660624,,,0
+H0,1991,1991,1991,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,83735920,,,,83735920,,29577292,,,0
+H0,1991,1991,1991,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,16187,,,,16187,,14119,,,0
+H0,1991,1991,1991,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,4035274,,,,4035274,,2097509,,,0
+H0,1991,1991,1991,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,98768,,,,98768,,79032,,,0
+H0,1991,1991,1991,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1898,,,,1898,,7061,,,0
+H0,1991,1991,1991,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,3143562,,,,3143562,,1296707,,,0
+H0,1991,1991,1991,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,208196410,,,,208196410,,79189425,,,0
+H0,1991,1991,1991,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,199,,,,199,,247,,,0
+H0,1991,1991,1991,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,141869691,,,,141869691,,54834790,,,0
+H0,1991,1991,1991,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2605753,,,,2605753,,2192263,,,0
+H0,1991,1991,1991,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,616233,,,,616233,,229691,,,0
+H0,1992,1992,1992,4,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,51322748,,,,51322748,,17682532,,,0
+H0,1992,1992,1992,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,88956000,,,,88956000,,34644809,,,0
+H0,1992,1992,1992,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1858,,,,1858,,1273,,,0
+H0,1992,1992,1992,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,96770760,,,,96770760,,34026520,,,0
+H0,1992,1992,1992,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,100000,,,,100000,,108847,,,0
+H0,1992,1992,1992,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,22223952,,,,22223952,,8324894,,,0
+H0,1992,1992,1992,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,8254682,,,,8254682,,2502807,,,0
+H0,1992,1992,1992,4,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,427,,,,427,,1102918,,,0
+H0,1992,1992,1992,4,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,93011160,,,,93011160,,60729080,,,0
+H0,1992,1992,1992,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,10251888,,,,10251888,,5235087,,,0
+H0,1992,1992,1992,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,644640,,,,644640,,251943,,,0
+H0,1992,1992,1992,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,39037845,,,,39037845,,15375647,,,0
+H0,1992,1992,1992,4,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",1,No Quantity,0,,,,0,,1078,,,0
+H0,1992,1992,1992,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,242,,,,242,,1389,,,0
+H0,1992,1992,1992,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,582592938,,,,582592938,,232430770,,,0
+H0,1992,1992,1992,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,49145812,,,,49145812,,19254497,,,0
+H0,1992,1992,1992,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2339812,,,,2339812,,583180,,,0
+H0,1992,1992,1992,4,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,7951954,,,,7951954,,3487141,,,0
+H0,1992,1992,1992,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,120230,,,,120230,,88256,,,0
+H0,1992,1992,1992,4,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1000,,,,1000,,2272,,,0
+H0,1992,1992,1992,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,537304,,,,537304,,334638,,,0
+H0,1992,1992,1992,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,70431568,,,,70431568,,27783464,,,0
+H0,1992,1992,1992,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,12430899,,,,12430899,,9280682,,,0
+H0,1992,1992,1992,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,39062,,,,39062,,9540,,,0
+H0,1992,1992,1992,4,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1000000,,,,1000000,,410000,,,0
+H0,1992,1992,1992,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,6238018,,,,6238018,,3754780,,,0
+H0,1992,1992,1992,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,408723616,,,,408723616,,180014000,,,0
+H0,1992,1992,1992,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,21638460,,,,21638460,,13843000,,,0
+H0,1992,1992,1992,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,17961936,,,,17961936,,7936728,,,0
+H0,1992,1992,1992,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,69976,,,,69976,,57575,,,0
+H0,1992,1992,1992,4,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,363,,,,363,,53,,,0
+H0,1992,1992,1992,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,90945,,,,90945,,100467,,,0
+H0,1992,1992,1992,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,308743808,,,,308743808,,113511096,,,0
+H0,1992,1992,1992,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1030272320,,,,1030272320,,356494016,,,0
+H0,1992,1992,1992,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,7579431,,,,7579431,,4936392,,,0
+H0,1992,1992,1992,4,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,66237,,,,66237,,87110,,,0
+H0,1992,1992,1992,4,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2540734,,,,2540734,,1095878,,,0
+H0,1992,1992,1992,4,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1250,,,,1250,,1706,,,0
+H0,1992,1992,1992,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,322971771,,,,322971771,,143441796,,,0
+H0,1992,1992,1992,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,50558,,,,50558,,133026,,,0
+H0,1992,1992,1992,4,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,188263232,,,,188263232,,85731576,,,0
+H0,1992,1992,1992,4,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1452350,,,,1452350,,1445741,,,0
+H0,1992,1992,1992,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,205684672,,,,205684672,,82918888,,,0
+H0,1992,1992,1992,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,449,,,,449,,1616,,,0
+H0,1992,1992,1992,4,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2562,,,,2562,,1198,,,0
+H0,1992,1992,1992,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,4830136,,,,4830136,,773775,,,0
+H0,1992,1992,1992,4,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,29761,,,,29761,,17525,,,0
+H0,1992,1992,1992,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,167426937,,,,167426937,,59034747,,,0
+H0,1992,1992,1992,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,4755667053,,,,4755667053,,1887684018,,,0
+H0,1992,1992,1992,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,116743048,,,,116743048,,44353000,,,0
+H0,1992,1992,1992,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,16432695,,,,16432695,,6894895,,,0
+H0,1992,1992,1992,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,361213248,,,,361213248,,140464736,,,0
+H0,1992,1992,1992,4,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,126863248,,,,126863248,,79372808,,,0
+H0,1992,1992,1992,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",7,Volume in litres,12364210,,,,0,,5215142,,,0
+H0,1992,1992,1992,4,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,750000,,,,750000,,177000,,,0
+H0,1992,1992,1992,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2742980,,,,2742980,,3761128,,,0
+H0,1992,1992,1992,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,10,,,,10,,27,,,0
+H0,1992,1992,1992,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,34729000,,,,34729000,,14177597,,,0
+H0,1992,1992,1992,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,21532,,,,21532,,22129,,,0
+H0,1992,1992,1992,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,451000,,,,451000,,316836,,,0
+H0,1992,1992,1992,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,672026,,,,672026,,377449,,,0
+H0,1992,1992,1992,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,97963760,,,,97963760,,45441160,,,0
+H0,1992,1992,1992,4,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,4772359,,,,4772359,,3263562,,,0
+H0,1992,1992,1992,4,0,3,Re-Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,5776,,,,5776,,23105,,,0
+H0,1992,1992,1992,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,35154987,,,,35154987,,16500694,,,0
+H0,1992,1992,1992,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,8125,,,,8125,,11518,,,0
+H0,1992,1992,1992,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,213277968,,,,213277968,,99170728,,,0
+H0,1992,1992,1992,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,113975008,,,,113975008,,58817688,,,0
+H0,1992,1992,1992,4,0,1,Import,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,102608968,,,,102608968,,37230304,,,0
+H0,1992,1992,1992,4,0,2,Export,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",1,No Quantity,0,,,,0,,949149,,,0
+H0,1992,1992,1992,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,83292552,,,,83292552,,32964672,,,0
+H0,1992,1992,1992,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,787594,,,,787594,,647340,,,0
+H0,1992,1992,1992,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,33096000,,,,33096000,,17913156,,,0
+H0,1992,1992,1992,4,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,6252000,,,,6252000,,4580514,,,0
+H0,1992,1992,1992,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,4442552,,,,4442552,,2727177,,,0
+H0,1992,1992,1992,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,9725007,,,,9725007,,4008432,,,0
+H0,1992,1992,1992,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1439460,,,,1439460,,627673,,,0
+H0,1992,1992,1992,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,3205999,,,,3205999,,1432447,,,0
+H0,1992,1992,1992,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,154248010,,,,154248010,,63057366,,,0
+H0,1992,1992,1992,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,130065443,,,,130065443,,52262402,,,0
+H0,1992,1992,1992,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,3975360,,,,3975360,,3255628,,,0
+H0,1992,1992,1992,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,732375,,,,732375,,712034,,,0
+H0,1992,1992,1992,4,0,1,Import,891,Serbia and Montenegro,SCG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,893000,,,,893000,,619000,,,0
+H0,1993,1993,1993,4,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,68519272,,,,68519272,,34010732,,,0
+H0,1993,1993,1993,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,330654,,,,330654,,289237,,,0
+H0,1993,1993,1993,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,91811101,,,,91811101,,37217172,,,0
+H0,1993,1993,1993,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,59611,,,,59611,,37935,,,0
+H0,1993,1993,1993,4,0,3,Re-Export,36,Australia,AUS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,12812,,,,12812,,8166,,,0
+H0,1993,1993,1993,4,0,1,Import,50,Bangladesh,BGD,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,79879666,,,,79879666,,34721569,,,0
+H0,1993,1993,1993,4,0,1,Import,64,Bhutan,BTN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",1,No Quantity,0,,,,0,,547045,,,0
+H0,1993,1993,1993,4,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,460,,,,460,,659,,,0
+H0,1993,1993,1993,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,37209596,,,,37209596,,15448027,,,0
+H0,1993,1993,1993,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,4837,,,,4837,,9111,,,0
+H0,1993,1993,1993,4,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,361,,,,361,,479247,,,0
+H0,1993,1993,1993,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,631889,,,,631889,,562592,,,0
+H0,1993,1993,1993,4,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,94808,,,,94808,,38368,,,0
+H0,1993,1993,1993,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,11707477,,,,11707477,,6538375,,,0
+H0,1993,1993,1993,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,98597,,,,98597,,70162,,,0
+H0,1993,1993,1993,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,46658960,,,,46658960,,19339886,,,0
+H0,1993,1993,1993,4,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,9875,,,,9875,,5318,,,0
+H0,1993,1993,1993,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,18521,,,,18521,,17323,,,0
+H0,1993,1993,1993,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,792518608,,,,792518608,,318424130,,,0
+H0,1993,1993,1993,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,146651857,,,,146651857,,65957685,,,0
+H0,1993,1993,1993,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,25963110,,,,25963110,,10916005,,,0
+H0,1993,1993,1993,4,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2964874,,,,2964874,,1343269,,,0
+H0,1993,1993,1993,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1619812,,,,1619812,,532227,,,0
+H0,1993,1993,1993,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,41000,,,,41000,,35565,,,0
+H0,1993,1993,1993,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,966849,,,,966849,,512968,,,0
+H0,1993,1993,1993,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,7962873,,,,7962873,,3603419,,,0
+H0,1993,1993,1993,4,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,90,,,,90,,170,,,0
+H0,1993,1993,1993,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,49834920,,,,49834920,,21952414,,,0
+H0,1993,1993,1993,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,11741153,,,,11741153,,8259448,,,0
+H0,1993,1993,1993,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,20749,,,,20749,,9520,,,0
+H0,1993,1993,1993,4,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,11625968,,,,11625968,,4872995,,,0
+H0,1993,1993,1993,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,7866247,,,,7866247,,4436107,,,0
+H0,1993,1993,1993,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,6,,,,6,,65,,,0
+H0,1993,1993,1993,4,0,1,Import,266,Gabon,GAB,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,491375,,,,491375,,399661,,,0
+H0,1993,1993,1993,4,0,2,Export,266,Gabon,GAB,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1080000,,,,1080000,,766296,,,0
+H0,1993,1993,1993,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,360635392,,,,360635392,,168751008,,,0
+H0,1993,1993,1993,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,28747112,,,,28747112,,18153000,,,0
+H0,1993,1993,1993,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,15248150,,,,15248150,,7412336,,,0
+H0,1993,1993,1993,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,524687,,,,524687,,373922,,,0
+H0,1993,1993,1993,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,7279673,,,,7279673,,3968866,,,0
+H0,1993,1993,1993,4,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,427199,,,,427199,,177837,,,0
+H0,1993,1993,1993,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,35778741,,,,35778741,,16562196,,,0
+H0,1993,1993,1993,4,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,46315373,,,,46315373,,21174588,,,0
+H0,1993,1993,1993,4,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,46278893,,,,46278893,,21152612,,,0
+H0,1993,1993,1993,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,73222,,,,73222,,80104,,,0
+H0,1993,1993,1993,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,151938576,,,,151938576,,63671164,,,0
+H0,1993,1993,1993,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1372080640,,,,1372080640,,472441024,,,0
+H0,1993,1993,1993,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,6594868,,,,6594868,,4376505,,,0
+H0,1993,1993,1993,4,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,9624,,,,9624,,7570,,,0
+H0,1993,1993,1993,4,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,81994,,,,81994,,71750,,,0
+H0,1993,1993,1993,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,355878447,,,,355878447,,160855778,,,0
+H0,1993,1993,1993,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,829499,,,,829499,,761922,,,0
+H0,1993,1993,1993,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,193567104,,,,193567104,,80573608,,,0
+H0,1993,1993,1993,4,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,261500,,,,261500,,83138,,,0
+H0,1993,1993,1993,4,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,160000,,,,160000,,58936,,,0
+H0,1993,1993,1993,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2470525,,,,2470525,,1798049,,,0
+H0,1993,1993,1993,4,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,15187,,,,15187,,6951,,,0
+H0,1993,1993,1993,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,252397000,,,,252397000,,88776648,,,0
+H0,1993,1993,1993,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,5105852000,,,,5105852000,,2001137321,,,0
+H0,1993,1993,1993,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2006061,,,,2006061,,1064068,,,0
+H0,1993,1993,1993,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,124317280,,,,124317280,,47994000,,,0
+H0,1993,1993,1993,4,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,9727535,,,,9727535,,4472805,,,0
+H0,1993,1993,1993,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,23693864,,,,23693864,,10853102,,,0
+H0,1993,1993,1993,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,373507072,,,,373507072,,145598352,,,0
+H0,1993,1993,1993,4,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,184605120,,,,184605120,,100426224,,,0
+H0,1993,1993,1993,4,0,1,Import,548,Vanuatu,VUT,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,26121,,,,26121,,21362,,,0
+H0,1993,1993,1993,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",7,Volume in litres,13417862,,,,0,,6048469,,,0
+H0,1993,1993,1993,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",7,Volume in litres,4125,,,,0,,3365,,,0
+H0,1993,1993,1993,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,3743017,,,,3743017,,1791017,,,0
+H0,1993,1993,1993,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,11454009,,,,11454009,,6520714,,,0
+H0,1993,1993,1993,4,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,119587,,,,119587,,132271,,,0
+H0,1993,1993,1993,4,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,300000,,,,300000,,219000,,,0
+H0,1993,1993,1993,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,42860168,,,,42860168,,17693468,,,0
+H0,1993,1993,1993,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,90015,,,,90015,,110386,,,0
+H0,1993,1993,1993,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,951000,,,,951000,,496475,,,0
+H0,1993,1993,1993,4,0,1,Import,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,7778,,,,7778,,6896,,,0
+H0,1993,1993,1993,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,499687,,,,499687,,306210,,,0
+H0,1993,1993,1993,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,72079064,,,,72079064,,39777472,,,0
+H0,1993,1993,1993,4,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,681088,,,,681088,,536963,,,0
+H0,1993,1993,1993,4,0,3,Re-Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,68815,,,,68815,,75832,,,0
+H0,1993,1993,1993,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,73268232,,,,73268232,,26965916,,,0
+H0,1993,1993,1993,4,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,496,,,,496,,576,,,0
+H0,1993,1993,1993,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,133851560,,,,133851560,,79156768,,,0
+H0,1993,1993,1993,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,61640024,,,,61640024,,35677932,,,0
+H0,1993,1993,1993,4,0,1,Import,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,111872256,,,,111872256,,42250400,,,0
+H0,1993,1993,1993,4,0,2,Export,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",1,No Quantity,0,,,,0,,1300803,,,0
+H0,1993,1993,1993,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,91677456,,,,91677456,,34409608,,,0
+H0,1993,1993,1993,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,873998,,,,873998,,617987,,,0
+H0,1993,1993,1993,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,37407000,,,,37407000,,17539264,,,0
+H0,1993,1993,1993,4,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,7427000,,,,7427000,,5071683,,,0
+H0,1993,1993,1993,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,5711343,,,,5711343,,3423702,,,0
+H0,1993,1993,1993,4,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,250,,,,250,,694,,,0
+H0,1993,1993,1993,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,212,,,,212,,1180,,,0
+H0,1993,1993,1993,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,90452,,,,90452,,77581,,,0
+H0,1993,1993,1993,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,5566749,,,,5566749,,2600601,,,0
+H0,1993,1993,1993,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,215671391,,,,215671391,,88770696,,,0
+H0,1993,1993,1993,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,27687,,,,27687,,6635,,,0
+H0,1993,1993,1993,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,425813280,,,,425813280,,180504816,,,0
+H0,1993,1993,1993,4,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,9899190,,,,9899190,,8144670,,,0
+H0,1993,1993,1993,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,161686524,,,,161686524,,69226585,,,0
+H0,1993,1993,1993,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,3090756,,,,3090756,,3425478,,,0
+H0,1993,1993,1993,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,222069,,,,222069,,189486,,,0
+H0,1994,1994,1994,4,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,16756763,,,,16756763,,8645034,,,0
+H0,1994,1994,1994,4,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,377739,,,,377739,,291656,,,0
+H0,1994,1994,1994,4,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2500,,,,2500,,10964,,,0
+H0,1994,1994,1994,4,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,98942784,,,,98942784,,44881141,,,0
+H0,1994,1994,1994,4,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,178025,,,,178025,,152026,,,0
+H0,1994,1994,1994,4,0,3,Re-Export,36,Australia,AUS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,13343,,,,13343,,15973,,,0
+H0,1994,1994,1994,4,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,17752622,,,,17752622,,11425920,,,0
+H0,1994,1994,1994,4,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,800249,,,,800249,,766148,,,0
+H0,1994,1994,1994,4,0,1,Import,64,Bhutan,BTN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,89,,,,89,,72,,,0
+H0,1994,1994,1994,4,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,33263158,,,,33263158,,15033967,,,0
+H0,1994,1994,1994,4,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2312073,,,,2312073,,1553200,,,0
+H0,1994,1994,1994,4,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,91,,,,91,,113976,,,0
+H0,1994,1994,1994,4,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,882999,,,,882999,,711112,,,0
+H0,1994,1994,1994,4,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,34000,,,,34000,,14180,,,0
+H0,1994,1994,1994,4,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,24970319,,,,24970319,,14753238,,,0
+H0,1994,1994,1994,4,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,56445,,,,56445,,65298,,,0
+H0,1994,1994,1994,4,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,489937,,,,489937,,483467,,,0
+H0,1994,1994,1994,4,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,41819700,,,,41819700,,19231256,,,0
+H0,1994,1994,1994,4,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,37963,,,,37963,,23403,,,0
+H0,1994,1994,1994,4,0,3,Re-Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,36480,,,,36480,,22489,,,0
+H0,1994,1994,1994,4,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,21,,,,21,,595,,,0
+H0,1994,1994,1994,4,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1456671459,,,,1456671459,,690126383,,,0
+H0,1994,1994,1994,4,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,375705062,,,,375705062,,235772772,,,0
+H0,1994,1994,1994,4,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,6696547,,,,6696547,,3158920,,,0
+H0,1994,1994,1994,4,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,20209528,,,,20209528,,8895026,,,0
+H0,1994,1994,1994,4,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1665518,,,,1665518,,1319612,,,0
+H0,1994,1994,1994,4,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,190226,,,,190226,,110103,,,0
+H0,1994,1994,1994,4,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,34703196,,,,34703196,,16654445,,,0
+H0,1994,1994,1994,4,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,416000,,,,416000,,404344,,,0
+H0,1994,1994,1994,4,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,631859,,,,631859,,436617,,,0
+H0,1994,1994,1994,4,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,13401848,,,,13401848,,7395354,,,0
+H0,1994,1994,1994,4,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,21589,,,,21589,,13157,,,0
+H0,1994,1994,1994,4,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,74629960,,,,74629960,,39772216,,,0
+H0,1994,1994,1994,4,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,13516467,,,,13516467,,12648719,,,0
+H0,1994,1994,1994,4,0,1,Import,212,Dominica,DMA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,536577,,,,536577,,269136,,,0
+H0,1994,1994,1994,4,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,3216,,,,3216,,1192,,,0
+H0,1994,1994,1994,4,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,9283892,,,,9283892,,4876491,,,0
+H0,1994,1994,1994,4,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,18907340,,,,18907340,,9453726,,,0
+H0,1994,1994,1994,4,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,66546,,,,66546,,56988,,,0
+H0,1994,1994,1994,4,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,13578858,,,,13578858,,8117119,,,0
+H0,1994,1994,1994,4,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,3500,,,,3500,,5963,,,0
+H0,1994,1994,1994,4,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,78541768,,,,78541768,,49970116,,,0
+H0,1994,1994,1994,4,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,6113743,,,,6113743,,3434515,,,0
+H0,1994,1994,1994,4,0,1,Import,254,French Guiana,GUF,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,73421,,,,73421,,58512,,,0
+H0,1994,1994,1994,4,0,1,Import,266,Gabon,GAB,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,586750,,,,586750,,436038,,,0
+H0,1994,1994,1994,4,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,402919232,,,,402919232,,197271008,,,0
+H0,1994,1994,1994,4,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,38896400,,,,38896400,,26631000,,,0
+H0,1994,1994,1994,4,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,14782559,,,,14782559,,7155753,,,0
+H0,1994,1994,1994,4,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,124639,,,,124639,,80791,,,0
+H0,1994,1994,1994,4,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,449,,,,449,,1157,,,0
+H0,1994,1994,1994,4,0,1,Import,308,Grenada,GRD,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,15062,,,,15062,,18207,,,0
+H0,1994,1994,1994,4,0,1,Import,312,Guadeloupe,GLP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1875,,,,1875,,2414,,,0
+H0,1994,1994,1994,4,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,12218260,,,,12218260,,6199000,,,0
+H0,1994,1994,1994,4,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2954471,,,,2954471,,1033000,,,0
+H0,1994,1994,1994,4,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2615937,,,,2615937,,1119581,,,0
+H0,1994,1994,1994,4,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,8685687,,,,8685687,,4319998,,,0
+H0,1994,1994,1994,4,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,198002384,,,,198002384,,107061584,,,0
+H0,1994,1994,1994,4,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,222195728,,,,222195728,,111952280,,,0
+H0,1994,1994,1994,4,0,3,Re-Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,221846144,,,,221846144,,111821728,,,0
+H0,1994,1994,1994,4,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,121497,,,,121497,,104563,,,0
+H0,1994,1994,1994,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,123637688,,,,123637688,,55715264,,,0
+H0,1994,1994,1994,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1631203200,,,,1631203200,,717810752,,,0
+H0,1994,1994,1994,4,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,11434728,,,,11434728,,8178526,,,0
+H0,1994,1994,1994,4,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,4250,,,,4250,,77725,,,0
+H0,1994,1994,1994,4,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,198539136,,,,198539136,,101601088,,,0
+H0,1994,1994,1994,4,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,23606188,,,,23606188,,23690174,,,0
+H0,1994,1994,1994,4,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,349215049,,,,349215049,,189975893,,,0
+H0,1994,1994,1994,4,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,20514,,,,20514,,197057,,,0
+H0,1994,1994,1994,4,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,173487312,,,,173487312,,82240528,,,0
+H0,1994,1994,1994,4,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,173529,,,,173529,,146143,,,0
+H0,1994,1994,1994,4,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,200573456,,,,200573456,,98089568,,,0
+H0,1994,1994,1994,4,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,38995,,,,38995,,34733,,,0
+H0,1994,1994,1994,4,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,82796,,,,82796,,43431,,,0
+H0,1994,1994,1994,4,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,30124,,,,30124,,30328,,,0
+H0,1994,1994,1994,4,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,9125,,,,9125,,5450,,,0
+H0,1994,1994,1994,4,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,7284111,,,,7284111,,4569096,,,0
+H0,1994,1994,1994,4,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,36480,,,,36480,,13234,,,0
+H0,1994,1994,1994,4,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,25581,,,,25581,,26772,,,0
+H0,1994,1994,1994,4,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,218653459,,,,218653459,,97505299,,,0
+H0,1994,1994,1994,4,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,5665841553,,,,5665841553,,2844429269,,,0
+H0,1994,1994,1994,4,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,134872,,,,134872,,142192,,,0
+H0,1994,1994,1994,4,0,1,Import,474,Martinique,MTQ,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,91156,,,,91156,,92276,,,0
+H0,1994,1994,1994,4,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1927229,,,,1927229,,962901,,,0
+H0,1994,1994,1994,4,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,155144912,,,,155144912,,73337000,,,0
+H0,1994,1994,1994,4,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,21000,,,,21000,,10300,,,0
+H0,1994,1994,1994,4,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,6488717,,,,6488717,,3145293,,,0
+H0,1994,1994,1994,4,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",1,No Quantity,0,,,,0,,1595000,,,0
+H0,1994,1994,1994,4,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,25341798,,,,25341798,,14533718,,,0
+H0,1994,1994,1994,4,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,55601,,,,55601,,76983,,,0
+H0,1994,1994,1994,4,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",1,No Quantity,0,,,,0,,4975697,,,0
+H0,1994,1994,1994,4,0,2,Export,524,Nepal,NPL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",1,No Quantity,0,,,,0,,20,,,0
+H0,1994,1994,1994,4,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,467540192,,,,467540192,,208183424,,,0
+H0,1994,1994,1994,4,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,149640960,,,,149640960,,100397456,,,0
+H0,1994,1994,1994,4,0,1,Import,548,Vanuatu,VUT,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,21757,,,,21757,,16165,,,0
+H0,1994,1994,1994,4,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",7,Volume in litres,10348863,,,,0,,5223087,,,0
+H0,1994,1994,1994,4,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",7,Volume in litres,7687,,,,0,,7147,,,0
+H0,1994,1994,1994,4,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,14798246,,,,14798246,,7451195,,,0
+H0,1994,1994,1994,4,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,12560812,,,,12560812,,8163157,,,0
+H0,1994,1994,1994,4,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,80901,,,,80901,,68312,,,0
+H0,1994,1994,1994,4,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,575000,,,,575000,,390875,,,0
+H0,1994,1994,1994,4,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1753,,,,1753,,5604,,,0
+H0,1994,1994,1994,4,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,7992761,,,,7992761,,3513518,,,0
+H0,1994,1994,1994,4,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,37677000,,,,37677000,,20321000,,,0
+H0,1994,1994,1994,4,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,98000,,,,98000,,62000,,,0
+H0,1994,1994,1994,4,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,39922600,,,,39922600,,18860632,,,0
+H0,1994,1994,1994,4,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,3876,,,,3876,,8927,,,0
+H0,1994,1994,1994,4,0,1,Import,638,Réunion,REU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,86104,,,,86104,,83670,,,0
+H0,1994,1994,1994,4,0,2,Export,638,Réunion,REU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,273,,,,273,,1117,,,0
+H0,1994,1994,1994,4,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,742000,,,,742000,,357000,,,0
+H0,1994,1994,1994,4,0,1,Import,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,9312,,,,9312,,9173,,,0
+H0,1994,1994,1994,4,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1041173,,,,1041173,,612219,,,0
+H0,1994,1994,1994,4,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,75723848,,,,75723848,,60034576,,,0
+H0,1994,1994,1994,4,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1468895,,,,1468895,,1288315,,,0
+H0,1994,1994,1994,4,0,3,Re-Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,29431,,,,29431,,23209,,,0
+H0,1994,1994,1994,4,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,917033,,,,917033,,1214349,,,0
+H0,1994,1994,1994,4,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,287497632,,,,287497632,,155005440,,,0
+H0,1994,1994,1994,4,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,116581328,,,,116581328,,71027440,,,0
+H0,1994,1994,1994,4,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,47143160,,,,47143160,,31017516,,,0
+H0,1994,1994,1994,4,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1216064,,,,1216064,,754375,,,0
+H0,1994,1994,1994,4,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,8062,,,,8062,,4760,,,0
+H0,1994,1994,1994,4,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,208178,,,,208178,,274842,,,0
+H0,1994,1994,1994,4,0,1,Import,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,103032288,,,,103032288,,42239648,,,0
+H0,1994,1994,1994,4,0,2,Export,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,3082713,,,,3082713,,1839359,,,0
+H0,1994,1994,1994,4,0,3,Re-Export,711,So. African Customs Union,ZAF,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2493690,,,,2493690,,1355225,,,0
+H0,1994,1994,1994,4,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,103353048,,,,103353048,,47240508,,,0
+H0,1994,1994,1994,4,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2848396,,,,2848396,,2340046,,,0
+H0,1994,1994,1994,4,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,54097000,,,,54097000,,29827306,,,0
+H0,1994,1994,1994,4,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,6474000,,,,6474000,,5184389,,,0
+H0,1994,1994,1994,4,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,6701594,,,,6701594,,4677897,,,0
+H0,1994,1994,1994,4,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,40,,,,40,,40,,,0
+H0,1994,1994,1994,4,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,9386477,,,,9386477,,4800833,,,0
+H0,1994,1994,1994,4,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,1207505,,,,1207505,,148893,,,0
+H0,1994,1994,1994,4,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,34773,,,,34773,,15922,,,0
+H0,1994,1994,1994,4,0,1,Import,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,67472,,,,67472,,63513,,,0
+H0,1994,1994,1994,4,0,2,Export,780,Trinidad and Tobago,TTO,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2875,,,,2875,,2603,,,0
+H0,1994,1994,1994,4,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,5629796,,,,5629796,,3179237,,,0
+H0,1994,1994,1994,4,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,201238478,,,,201238478,,96823636,,,0
+H0,1994,1994,1994,4,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,20679,,,,20679,,18808,,,0
+H0,1994,1994,1994,4,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,29440836,,,,29440836,,17794020,,,0
+H0,1994,1994,1994,4,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,81238,,,,81238,,8703,,,0
+H0,1994,1994,1994,4,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,149204016,,,,149204016,,68417712,,,0
+H0,1994,1994,1994,4,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,119463,,,,119463,,90215,,,0
+H0,1994,1994,1994,4,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,465321600,,,,465321600,,219868000,,,0
+H0,1994,1994,1994,4,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,15269323,,,,15269323,,13821143,,,0
+H0,1994,1994,1994,4,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,171817656,,,,171817656,,75517201,,,0
+H0,1994,1994,1994,4,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,3245422,,,,3245422,,2805856,,,0
+H0,1994,1994,1994,4,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,356229,,,,356229,,221791,,,0
+H0,1994,1994,1994,4,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,2812,,,,2812,,5599,,,0
+H0,1994,1994,1994,4,0,1,Import,862,Venezuela,VEN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,11127271,,,,11127271,,5149653,,,0
+H0,1994,1994,1994,4,0,2,Export,862,Venezuela,VEN,0,World,WLD,,,,,,,,1511,"Palm oil and its fractions, not chemically modified",8,Weight in kilograms,148,,,,148,,137,,,0
